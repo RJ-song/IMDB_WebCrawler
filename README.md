@@ -1,0 +1,1 @@
+A web crawler to scrape top 250 movies from IMDB
